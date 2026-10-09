@@ -22,17 +22,17 @@ Also: an AI project for TEB Turkey Innovation Week and digital projects for ente
 
 ## 📊 Data & ML
 
-**[Credit Risk & Loan Default Prediction](https://github.com/bugraistek/credit-risk-default-prediction)**
-Portfolio analysis of 58,645 loans, a Power BI dashboard, and a CatBoost model that catches 80% of defaults (ROC AUC 0.95).
+**[Credit Risk & Loan Default Prediction](https://github.com/bugraistek/credit-risk-default-prediction)**<br>
+Portfolio analysis of 58,645 loans, a Power BI dashboard, and a CatBoost model that catches 80% of defaults (ROC AUC 0.95).<br>
 `Python` `scikit-learn` `CatBoost` `Power BI`
 
-## 🎮 Game design & research
+## 🎓 Research
 
-**[Usta Şef — Educational Game](https://github.com/bugraistek/usta-sef-game-based-learning)**
-A Unity game I designed and built to teach measurement to 4th graders through a kitchen story, tested in a classroom pilot.
-`Unity` `Game design` `User testing` `SPSS`
+**[Game-Based Learning in Primary Mathematics: Designing and Evaluating the Usta Şef Courseware](https://github.com/bugraistek/usta-sef-game-based-learning)**<br>
+Bachelor's thesis, Boğaziçi University (2025). I designed and built a Unity educational game, then evaluated it in a classroom pilot with a pre/post-test design and statistical analysis in SPSS (t-tests, Wilcoxon, Spearman).<br>
+`Research design` `Statistical analysis` `SPSS` `Unity` `User testing`
 
 ## 🛠 Toolkit
 
-**Product:** Roadmapping, discovery, BRD/PRD, A/B testing, funnel & KPI analysis, UAT/QA, Jira, GitHub
+**Product:** Roadmapping, discovery, BRD/PRD, A/B testing, funnel & KPI analysis, UAT/QA, Jira, GitHub<br>
 **Data:** Python (pandas, scikit-learn), SQL, Power BI, Excel, SPSS
