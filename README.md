@@ -13,7 +13,7 @@ Short case studies covering the problem, what I did, and the outcome:
 | [PlayableX Iterate](https://github.com/bugraistek/product-case-studies#playablex-iterate) | AI-powered playable ad platform for mobile game studios | BA → Product Manager |
 | [PlayableX Multiply](https://github.com/bugraistek/product-case-studies#playablex-multiply) | AI-powered video creative platform for mobile game studios | Product Manager |
 | [Engaraj](https://github.com/bugraistek/product-case-studies#engaraj) | Vehicle damage claims management | Freelance PM |
-| [VulnTracker](https://github.com/bugraistek/product-case-studies#vulntracker) | Cybersecurity vulnerability triage with AI mitigation | Freelance Product, UI/UX & R&D |
+| [VulnTracker](https://github.com/bugraistek/product-case-studies#vulntracker) | Cybersecurity vulnerability triage with AI mitigation | Freelance PM, UI/UX & R&D |
 | [T100 Loyalty](https://github.com/bugraistek/product-case-studies#t100-loyalty) | Digital loyalty card for a Georgian fuel retailer | Business Analyst |
 | [Salam Travel](https://github.com/bugraistek/product-case-studies#more-projects) | AI travel planner with conversational itinerary building | Business Analyst |
 | [Nedwork](https://github.com/bugraistek/product-case-studies#more-projects) | AI-powered fair hiring platform | Business Analyst |
